@@ -1,0 +1,20 @@
+:root {
+  --font-family-pt-400: "PT-Serif-Regular", serif;
+  --font-family-pt-700: "PT-Serif-Bold", serif;
+  --font-family-roboto-400: "Roboto-Regular", sans-serif;
+  --font-family-roboto-500: "Roboto-Medium", sans-serif;
+
+  --container-width: 1170px; /*1140px контейнер + 15px * 2 paddings*/
+  --container-padding: 15px;
+
+  --bg-color-main: #fff;
+
+  --font-size: 14px;
+  --line-height: 18px;
+
+  --color-main: #5e5e5e;
+  --color-secondary: #d3d2d2;
+  --color-orange: #ffc222;
+  --color-white-100: #ffffff;
+  --color-black-100: #212020;
+}

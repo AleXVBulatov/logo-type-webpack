@@ -1,0 +1,8 @@
+@font-face {
+  font-family: "PT-Serif-Regular";
+  src: url("../fonts/PT-Serif/PTSerif-Regular.ttf") format(truetype);
+}
+@font-face {
+  font-family: "PT-Serif-Bold";
+  src: url("../fonts/PT-Serif/PTSerif-Bold.ttf") format(truetype);
+}

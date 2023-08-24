@@ -1,0 +1,21 @@
+@import "~normalize.css";
+
+@import "@styles/reset.css";
+@import "@styles/fonts.css"; /* Иконки */
+
+@import "@styles/_ptserifFont.css";
+@import "@styles/_robotoFont.css";
+@import "@styles/_vars.css";
+
+@import "@styles/styles.css";
+@import "@styles/media.css";
+
+@import "~slick-carousel/slick/slick.css"; /* первый вариант из папки node_modules */
+/* @import "../node_modules/slick-carousel/slick/slick.css"; /* как и первый вариант*/
+/* @import "@styles/slick.css"; /* второй вариант из папки styles */
+
+@import "~jquery-form-styler/dist/jquery.formstyler.css"; /* первый вариант из папки node_modules */
+/* @import "../node_modules/jquery-form-styler/dist/jquery.formstyler.css";  как и первый вариант*/
+/* @import "@styles/jquery.formstyler.css"; /* второй вариант из папки styles */
+
+/* @import url("https://fonts.googleapis.com/css2?family=PT+Serif:wght@400;700&family=Roboto:wght@400;500&display=swap"); */
